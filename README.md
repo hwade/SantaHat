@@ -18,12 +18,12 @@
 
 - Paste Santa Hat to an Image.
 ```
-$ python main.py main --add\_path=img/santa\_hat.png --is\_video=False --file\_path=img/face.png --save\_path=img/output.png
+$ python main.py main --add_path=img/santa_hat.png --is_video=False --file_path=img/face.png --save_path=img/output.png
 ```
 
 - Paste Santa Hat to an Video.
 ```
-$ python main.py main --add\_path=img/santa\_hat.png --is\_video=True --video\_path=video/video.mp4 --save\_path=video/output.avi
+$ python main.py main --add_path=img/santa_hat.png --is_video=True --video_path=video/video.mp4 --save_path=video/output.avi
 ```
 ## Result
 
